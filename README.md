@@ -1,1 +1,1 @@
-## world_war_ii_classic
+## classic_league
