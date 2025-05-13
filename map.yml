@@ -1,0 +1,3 @@
+map_name: classic_league
+games:
+- {game_name: Classic League, file_name: classic_league.xml}
