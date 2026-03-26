@@ -1985,7 +1985,7 @@
     <property name="Neutrals Are Impassable" value="true" editable="true">
       <boolean/>
     </property>
-	<property name="No New Complexes" value="false" editable="true">
+	<property name="No New Complexes" value="true" editable="true">
 	  <boolean/>
 	</property> 
     <property name="Tech Development" value="true" editable="true">
